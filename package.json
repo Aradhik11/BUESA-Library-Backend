@@ -16,7 +16,7 @@
   },
   "name": "buesa-library",
   "version": "1.0.0",
-  "description": "E-Library for Bells University Of Engineering Student Association",
+  "description": "E-Library for Bells University Engineering Student Association",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
